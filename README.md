@@ -1,5 +1,5 @@
 
-# Hallo, ich bin Philipp! 👋
+# 👋 Hallo, ich bin Philipp! 👋 Hi, there I am Philipp! 👋
 
 
 
