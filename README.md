@@ -7,7 +7,7 @@
 
 ### German
 Schon von klein auf war ich von der IT Welt fasziniert, aber als Teenager dachte ich nie daran aus diesem Interesse eine Karriere zu mache. Somit began ich mit 14 Jahren erstmal eine Lehre zum Koch. Nachdem ich die Lehrer abgeschlossen und meinen Zivildienst absolviert habe, habe ich die Möglichkeit bekommen in meinem ersten IT Job als IT Technical Engineer zu arbeiten. 
-Mit dieser Möglichkeit wurde mein willen in der IT Branche meine Karriere zu verfestigen erweckt. Ein großes Danke an meine Freund der mir den Einstieg ermöglicht hat.
+Mit dieser Möglichkeit wurde mein willen in der IT Branche meine Karriere zu verfestigen verfestigt. Ein großes Danke an meinen Freund der mir den Einstieg ermöglicht hat.
 
 Da mich das Internet immer schon sehr interessiert hat und ich nicht mein gesamtes Leben als Technical Engineer arbeiten möchte, fing ich ende 2022 mich umzusehen in welche Richtung ich mich in der IT bewegen will. Im Frühjahr 2023 began ich dann meine Reise programmieren zu lernen.
 
