@@ -25,8 +25,6 @@ I love to learn and work project based, by learning this way I am able to learn 
 
 After more than a year of learning web development and programming in general, I know that I want to deepen my knowledge in the software development industry and get a job as a developer.
 
-Translated with DeepL.com (free version)
-
 
 ## 🛠 Skills
 <div align="center">
