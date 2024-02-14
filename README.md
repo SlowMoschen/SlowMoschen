@@ -36,3 +36,6 @@ After more than a year of learning web development and programming in general, I
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.philippmillner.dev/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/philipp-millner-4167b5286) [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](philipp.millner@outlook.com)
+
+## Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SlowMoschen&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
