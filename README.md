@@ -30,8 +30,11 @@ Translated with DeepL.com (free version)
 
 ## 🛠 Skills
 <div align="center">
-  [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
-  [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
+
+  <a href="">![example1](https://img.shields.io/badge/example-one-red)</a>
+  <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
+  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
+
 </div>
 
 
