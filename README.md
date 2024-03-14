@@ -38,4 +38,5 @@ After more than a year of learning web development and programming in general, I
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.philippmillner.dev/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/philipp-millner-4167b5286) [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](philipp.millner@outlook.com)
 
 ## 📊 Stats
-![slowmoschen's Stats](https://github-readme-stats.vercel.app/api?username=slowmoschen&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![slowmoschen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=slowmoschen&theme=radical&hide_border=true)
+![slowmoschen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slowmoschen&theme=radical&show_icons=true&hide_border=true&layout=compact)
