@@ -1,7 +1,3 @@
-
-# 👋 Hi, there I am Philipp! 👋
-
-
 ## 🛠 Skills
 <div align="center">
 
